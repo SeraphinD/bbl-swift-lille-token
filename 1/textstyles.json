@@ -1,0 +1,157 @@
+{
+	"textstyles": {
+		"button-fixed": {
+			"fontFamily": "Sana Sans Alt",
+			"fontSize": "20px",
+			"fontWeight": 1100,
+			"lineHeight": "0px",
+			"letterSpacing": "normal",
+			"textTransform": "none",
+			"color": "#333333"
+		},
+		"button-medium": {
+			"fontFamily": "Sana Sans Alt",
+			"fontSize": "15px",
+			"fontWeight": 1100,
+			"lineHeight": "0px",
+			"letterSpacing": "normal",
+			"textTransform": "none",
+			"color": "#333333"
+		},
+		"button-tiny": {
+			"fontFamily": "Sana Sans Alt",
+			"fontSize": "13px",
+			"fontWeight": 1100,
+			"lineHeight": "0px",
+			"letterSpacing": "normal",
+			"textTransform": "none",
+			"color": "#333333"
+		},
+		"h-1-headline": {
+			"fontFamily": "Sana Sans Alt",
+			"fontSize": "26px",
+			"fontWeight": 1100,
+			"lineHeight": "0px",
+			"letterSpacing": "normal",
+			"textTransform": "none",
+			"color": "#333333"
+		},
+		"h-2-headline": {
+			"fontFamily": "Sana Sans Alt",
+			"fontSize": "24px",
+			"fontWeight": 1100,
+			"lineHeight": "0px",
+			"letterSpacing": "normal",
+			"textTransform": "none",
+			"color": "#333333"
+		},
+		"h-3-headline": {
+			"fontFamily": "Sana Sans Alt",
+			"fontSize": "22px",
+			"fontWeight": 1100,
+			"lineHeight": "0px",
+			"letterSpacing": "normal",
+			"textTransform": "none",
+			"color": "#333333"
+		},
+		"h-4-headline": {
+			"fontFamily": "Sana Sans Alt",
+			"fontSize": "20px",
+			"fontWeight": 1100,
+			"lineHeight": "0px",
+			"letterSpacing": "normal",
+			"textTransform": "none",
+			"color": "#333333"
+		},
+		"h-5-headline": {
+			"fontFamily": "Sana Sans Alt",
+			"fontSize": "18px",
+			"fontWeight": 1100,
+			"lineHeight": "0px",
+			"letterSpacing": "normal",
+			"textTransform": "none",
+			"color": "#333333"
+		},
+		"h-6-headline": {
+			"fontFamily": "Sana Sans Alt",
+			"fontSize": "16px",
+			"fontWeight": 1100,
+			"lineHeight": "0px",
+			"letterSpacing": "normal",
+			"textTransform": "none",
+			"color": "#333333"
+		},
+		"s-1-subtitle": {
+			"fontFamily": "Sana Sans Alt",
+			"fontSize": "16px",
+			"fontWeight": 900,
+			"lineHeight": "0px",
+			"letterSpacing": "normal",
+			"textTransform": "none",
+			"color": "#333333"
+		},
+		"s-2-subtitle": {
+			"fontFamily": "Sana Sans Alt",
+			"fontSize": "13px",
+			"fontWeight": 900,
+			"lineHeight": "0px",
+			"letterSpacing": "normal",
+			"textTransform": "none",
+			"color": "#333333"
+		},
+		"p-1-paragraphe": {
+			"fontFamily": "Sana Sans Alt",
+			"fontSize": "16px",
+			"fontWeight": 500,
+			"lineHeight": "0px",
+			"letterSpacing": "normal",
+			"textTransform": "none",
+			"color": "#333333"
+		},
+		"p-2-paragraphe": {
+			"fontFamily": "Sana Sans Alt",
+			"fontSize": "14px",
+			"fontWeight": 500,
+			"lineHeight": "0px",
+			"letterSpacing": "normal",
+			"textTransform": "none",
+			"color": "#333333"
+		},
+		"c-1-caption": {
+			"fontFamily": "Sana Sans Alt",
+			"fontSize": "12px",
+			"fontWeight": 500,
+			"lineHeight": "0px",
+			"letterSpacing": "normal",
+			"textTransform": "none",
+			"color": "#333333"
+		},
+		"c-2-caption": {
+			"fontFamily": "Sana Sans Alt",
+			"fontSize": "12px",
+			"fontWeight": 900,
+			"lineHeight": "0px",
+			"letterSpacing": "normal",
+			"textTransform": "none",
+			"color": "#333333"
+		},
+		"label": {
+			"fontFamily": "Sana Sans Alt",
+			"fontSize": "12px",
+			"fontWeight": 1100,
+			"lineHeight": "0px",
+			"letterSpacing": "normal",
+			"textTransform": "uppercase",
+			"color": "#333333"
+		},
+		"tabbar": {
+			"fontFamily": "Sana Sans Alt",
+			"fontSize": "10px",
+			"fontWeight": 500,
+			"lineHeight": "0px",
+			"letterSpacing": "normal",
+			"textTransform": "none",
+			"color": "#029edc"
+		}
+	}
+}
