@@ -3,7 +3,7 @@
 	  "textstyles": [
 		{
 		  "name": "h1-headline",
-		  "fontFamily": "Helvetica-Light",
+		  "fontFamily": "Helvetica-Bold",
 		  "fontSize": {
 			"rem": 1.625,
 			"pt": 19.5,
@@ -21,7 +21,7 @@
 		},
 		{
 		  "name": "h2-headline",
-		  "fontFamily": "Helvetica-Light",
+		  "fontFamily": "Helvetica-Bold",
 		  "fontSize": {
 			"rem": 1.5,
 			"pt": 18,
